@@ -1,0 +1,30 @@
+* {
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.sidebar {
+	width: 200px;
+	padding: 20px;
+}
+.choice {
+	width: 200px;
+}
+.choice > div > a {
+	display: inline-block;
+	width: 160px;
+	padding: 10px;
+	border: 1px solid black;
+	text-align: center;
+	background: white;
+	cursor: pointer;
+}
+
+.choice > div > a.xx {
+	width: 40px;
+}
+
+.add input {
+	margin-top: 10px;
+	width: 200px;
+}
