@@ -18,6 +18,8 @@
 	text-align: center;
 	background: white;
 	cursor: pointer;
+	text-decoration: none;
+	color: black;
 }
 
 .choice > div > a.xx {
